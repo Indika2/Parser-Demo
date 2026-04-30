@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ReliableParser.vcxproj" Id="28acc29e-5c67-4114-9b22-25375af84f09" />
+</Solution>
