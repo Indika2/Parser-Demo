@@ -3,7 +3,7 @@
 #include <cassert>
 #include <windows.h>
 
-//const for invalid state when parsing a log entries
+//const for invalid state when parsing log entries
 const int invalidEventState = -1;
 
 CEventParser::~CEventParser()
